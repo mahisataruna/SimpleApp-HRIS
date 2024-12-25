@@ -10,7 +10,12 @@
 
 ## Feature
 
-- Upcoming awesome feature!
+- Beautiful Blurry Login Page `auth`
+- Dashboard Admin `admin/index`
+- Upcoming more feature updates
+
+## How to used?
+[Instalation](https://telegra.ph/SimpleApp-HRIS-Instalation-Guide-12-25)
 
 ## Platform / Frramework
 
